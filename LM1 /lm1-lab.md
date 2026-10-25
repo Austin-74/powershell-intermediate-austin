@@ -24,3 +24,8 @@ ComputerName
 -improves reusability
 by allowing the function to be used for multiple computers 
 -results of testing
+
+
+#4
+purpose of the help section
+-to allow others to understand why and how to use the function/script to prevent errors and to be used correctly 

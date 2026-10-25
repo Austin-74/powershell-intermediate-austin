@@ -16,3 +16,11 @@ to retrieve the disk info quickly w/out typing the whole CMD every time
 Get-CimInstance Win32_LogicalDisk -ComputerName 
 -expected output
 disk/drive name/total size/ availible space  
+
+#3
+add parameters 
+-parameter name 
+ComputerName
+-improves reusability
+by allowing the function to be used for multiple computers 
+-results of testing

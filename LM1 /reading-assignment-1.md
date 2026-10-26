@@ -6,12 +6,22 @@
 
 #function practice 
 #Get-StudentName
-
+function Get-StudentName { write-output"Austin"
+}
 
 #Get-CourseInfo
+function Get-CourseInfo {
+$name= "PowerShell intermediate"
+write-output $name
+}
 
 #Get-SystemInfo
-
+function Get-SystemInfo {
+$name=$env:COMPUTERNAME
+$date= Get-Date
+write-output "computer name $Name"
+write-output "date $date"
+}
 
 
 

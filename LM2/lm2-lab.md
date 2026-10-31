@@ -22,3 +22,7 @@ each field is useful because you get the important information in order
 task 5
 export location desktop C: drive
 file name employees-report-1.csv
+
+task 6
+one advantage CSV easy to read output for information reports 
+one advantage JSON it turns the output into objects so it is better for scripts and functions  

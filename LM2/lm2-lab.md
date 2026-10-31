@@ -18,3 +18,7 @@ number of records processed 75 names
 task 4
 fields include firstname lastname department location 
 each field is useful because you get the important information in order
+
+task 5
+export location desktop C: drive
+file name employees-report-1.csv

@@ -32,16 +32,16 @@ type of missing information found
 
 
 task 6 
-total groups 
+total groups=65 
 
 
-one empty group
-one administrative group 
+one empty group=print operators 
+one administrative group=administrators  
 
 
 
 task 7
 
-number of computers 
+number of computers =48
 number of server objects
 number of workstation objects 

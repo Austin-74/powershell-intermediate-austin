@@ -17,7 +17,7 @@ title ex/hr specialist
 
 
 task 4
-number of disabled accounts 
+number of disabled accounts =5
 
 
 task 5

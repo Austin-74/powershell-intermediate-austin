@@ -22,10 +22,10 @@ number of disabled accounts =5
 
 task 5
 number of accounts missing information
-
+= 13
 
 type of missing information found 
-
+department information email/office phone/displayname/surname/userprincipalname 
 
 
 
@@ -42,6 +42,6 @@ one administrative group=administrators
 
 task 7
 
-number of computers =48
-number of server objects
-number of workstation objects 
+number of computers =30 new pc 3 old pc and LT 10
+number of server objects=4 serv 1 dc
+number of workstation objects=43

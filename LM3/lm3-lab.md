@@ -7,10 +7,12 @@ computers - new-adcomputer
 OU's - new-orginizationalunit
 
 task 3
-number of users 
+number of users = 88
 3 useful properties with example values
 
-
+name
+surname
+SID
 
 
 

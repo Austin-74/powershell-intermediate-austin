@@ -10,9 +10,9 @@ task 3
 number of users = 88
 3 useful properties with example values
 
-name
-surname
-SID
+name ex/logan
+surname ex/johnson
+title ex/hr specialist
 
 
 

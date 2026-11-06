@@ -1,10 +1,10 @@
 task 2
 
 cmdlet for 
-users 
-groups
-computers 
-OU's
+users - get-aduser
+groups - new-adgroup
+computers - new-adcomputer
+OU's - new-orginizationalunit
 
 task 3
 number of users 

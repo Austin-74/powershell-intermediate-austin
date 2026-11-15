@@ -26,4 +26,5 @@ reason for the change (if any)
 if it is a backup that means it is more likely to be overlooked when reviewing operations and is more likely a security risk since it has admin privileges 
 6
 commands used
-
+enable-aduseraccount -name
+disable-adaccount -identity

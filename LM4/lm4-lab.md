@@ -11,7 +11,7 @@ commands used set-aduser <name> -department
 3
 users corrected = 3
 original value Sam Jackson department unknown, robin young department ITT, robin miller department finanace
-updated value
+updated value- names corrected IT,IT,Finance
 
 4
 user added

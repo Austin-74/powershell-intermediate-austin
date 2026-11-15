@@ -1,12 +1,12 @@
 1
-username created 
-OU location 
-command used
+username created -jordan.bennet
+OU location - IT
+command used new-aduser
 
 2
-number of accounts corrected
-information added
-commands used
+number of accounts corrected -3
+information added- department name /
+commands used set-aduser <name> -department
 
 3
 users corrected

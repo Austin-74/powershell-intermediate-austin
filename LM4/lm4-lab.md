@@ -15,11 +15,11 @@ updated value- names corrected IT,IT,Finance
 
 4
 user added- jordanbennett
-user removed 
+user removed =helpdesk
 commands used= add-adgroupmember -identity -members
-
+remove-adgroupmember
 5
-current membership
+current membership= domainuser serveradmin
 action taken
 commands used
 reason for the change (if any)

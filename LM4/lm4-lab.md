@@ -20,10 +20,10 @@ commands used= add-adgroupmember -identity -members
 remove-adgroupmember
 5
 current membership= domainuser serveradmin
-action taken
-commands used
+action taken=removed from group
+commands used= remove-adgroupmember
 reason for the change (if any)
-
+if it is a backup that means it is more likely to be overlooked when reviewing operations and is more likely a security risk since it has admin privileges 
 6
 commands used
 

@@ -14,9 +14,9 @@ original value Sam Jackson department unknown, robin young department ITT, robin
 updated value- names corrected IT,IT,Finance
 
 4
-user added
+user added- jordanbennett
 user removed 
-commands used
+commands used= add-adgroupmember -identity -members
 
 5
 current membership

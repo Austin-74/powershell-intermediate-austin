@@ -1,12 +1,12 @@
 task 1
-a.	Employee count
-b.	Columns identified
-c.	Departments identified
+a.	Employee count = 15
+b.	Columns identified = 6
+c.	Departments identified = 6 it hr finance marketing op exec
 
 task 2
-a.	Number of accounts created
-b.	Commands used
-c.	Any errors encountered
+a.	Number of accounts created= 15
+b.	Commands used=import-csv new-aduser
+c.	Any errors encountered= double quotes in the csv file 
 
 task 3
 a.	Groups used
